@@ -27,6 +27,5 @@ To get started with this Django project, follow these steps:
 
    ```sh
    git clone <repository-url>
--python manage.py migrate
--python manage.py runserver
+
 
