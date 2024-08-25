@@ -26,6 +26,6 @@ To get started with this Django project, follow these steps:
 1. **Clone the Repository**
 
    ```sh
-   git clone <repository-url>
+   git clone <https://github.com/sscafi/django_zero_to_hero/tree/main/storefront>
 
 
